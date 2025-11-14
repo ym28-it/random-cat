@@ -1,6 +1,6 @@
 "use server"
 
-import { CAT_API_KEY } from "@/app/env";
+// import { CAT_API_KEY } from "@/app/env";
 
 type Image = {
     url: string;
